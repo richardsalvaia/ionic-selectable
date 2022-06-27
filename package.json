@@ -8,13 +8,10 @@
     "url": "https://github.com/eakoriakin"
   },
   "license": "See license in LICENSE",
-  "homepage": "https://github.com/eakoriakin/ionic-selectable",
+  "homepage": "https://github.com/richardsalvaia/ionic-selectable",
   "repository": {
     "type": "git",
     "url": "https://github.com/richardsalvaia/ionic-selectable.git"
-  },
-  "bugs": {
-    "url": "https://github.com/richardsalvaia/ionic-selectable/issues"
   },
   "keywords": [
     "ionic",
